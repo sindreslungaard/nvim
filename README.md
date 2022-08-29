@@ -29,3 +29,15 @@
 - `:term` Open terminal in window
 - `i` Insert mode in terminal
 - `C-x` Exit insert mode
+
+### fzf
+
+- `ff` Search files
+- `fb` Search open buffers
+- `fs` Search all files
+
+### Search inside file
+
+- `/` Start searching.
+- `Enter` Execute search
+- `n` Go to next occurence
