@@ -41,3 +41,7 @@
 - `/` Start searching.
 - `Enter` Execute search
 - `n` Go to next occurence
+
+### NERDTree
+
+- `ft` Toggle NERDTree
