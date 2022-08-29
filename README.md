@@ -21,6 +21,8 @@
 - `C-w w` Focus next window
 - `C-w c` Close window
 - `C-w o` Close all other windows
+- `C-w 5 +` Increase vertical window size by 5
+- `C-w 5 >` Increase horizontal window size by 5
 
 ### Terminal
 
