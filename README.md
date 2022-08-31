@@ -23,6 +23,8 @@
 - `C-w o` Close all other windows
 - `C-w 5 +` Increase vertical window size by 5
 - `C-w 5 >` Increase horizontal window size by 5
+- `C-w L` Move window far-right
+- `C-w H` Move window far-left
 
 ### Terminal
 
@@ -45,3 +47,12 @@
 ### NERDTree
 
 - `ft` Toggle NERDTree
+- `u` Move up a directory
+- `C` Move down a directory
+
+### Copy & Paste
+
+- `yy` Yank current line
+- `yy3` Yank 3 lines, starting at the line of the cursor position
+- `p` Paste below cursor
+- `P` Paste above cursor
