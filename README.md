@@ -54,5 +54,6 @@
 
 - `yy` Yank current line
 - `yy3` Yank 3 lines, starting at the line of the cursor position
+- `dd` Cut current line
 - `p` Paste below cursor
 - `P` Paste above cursor
