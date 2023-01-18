@@ -14,6 +14,10 @@
 - `k` Move cursor up
 - `l` Move cursor right
 
+### Buffers
+- `ctrl + o` Opens previous buffer
+- `ctrl + i` Opens next buffer
+
 ### Windows
 
 - `C-w v` Split window vertically
@@ -57,3 +61,6 @@
 - `dd` Cut current line
 - `p` Paste below cursor
 - `P` Paste above cursor
+
+### Misc
+- `:noa ...` Runs command without triggering autocmd, i.e. `:noa w` to save without formatting
